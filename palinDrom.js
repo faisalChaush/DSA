@@ -23,7 +23,6 @@ if (isPalindrome) {
 
 // Try 2
 
-
 // let isPalindrome = false;
 // let str = "lol";
 // let length = str.length;

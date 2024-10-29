@@ -11,6 +11,7 @@ for (let i = 0; i < str.length; i++) {
     }
 }
 
+
 // Step 2: Find the first non-repeated character
 let result = '';
 for (let i = 0; i < str.length; i++) {

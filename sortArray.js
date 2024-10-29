@@ -19,6 +19,7 @@ randomArray.sort(function (a, b) {
 
 
 
+
 // Try 2
 // To sort the array using pure javaScript
 

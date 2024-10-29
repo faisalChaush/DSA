@@ -16,8 +16,6 @@ console.log(isPrimeNumber(1));
 
 
 
-
-
 // try 2
 // const isPrimeNumber = (num) => {
 //   let divider = 2;

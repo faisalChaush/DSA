@@ -12,5 +12,6 @@ function isSorted(arr) {
 }
 
 
+
 console.log(isSorted(arr1));  // Output: true
 console.log(isSorted(arr2));  // Output: false

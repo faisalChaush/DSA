@@ -1,7 +1,6 @@
 //To change the strings type like upper case to lower case
 
 
-
 // Try 1
 
 // let str1="THIS IS SMALL TEXT"

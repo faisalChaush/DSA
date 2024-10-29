@@ -14,6 +14,7 @@ function findMinMax(arr) {
     return { max: max, min: min };
 }
 
+
 // Example usage:
 let arr = [3, 5, 1, 8, -2, 7];
 let result = findMinMax(arr);

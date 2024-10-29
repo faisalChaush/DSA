@@ -3,6 +3,8 @@
 // Input - N = 1, A = [1,2,3,4,5] == Output a = [5,1,2,3,4] 
 // Input - N = 2, A = [1,2,3,4,5] ===> Output aa =[4,5,1,2,3]
 
+
+
 let array=[1,2,3,4,5]
 let output=[]
 

@@ -24,4 +24,6 @@ let multiNestedArray = [
          
       }
   }
-  console.log(count)
+
+
+
