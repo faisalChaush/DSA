@@ -25,7 +25,7 @@ for(let i=0;i<arr.length;i++){
     let isDuplicate=false
     for(let j=0;j<uniqArray.length;j++){
         if(arr[i]==uniqArray[j]){
-            duplicateArr.push(arr[i])
+            duplicateArr.push(arr[i])  
             isDuplicate=true
             break
         }
